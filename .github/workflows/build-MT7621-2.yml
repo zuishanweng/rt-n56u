@@ -1,4 +1,4 @@
-name: Build MT7621-2
+name: Build B70
 
 on: 
   release:
